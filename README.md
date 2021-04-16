@@ -7,23 +7,15 @@ Znote AAC is a full-fledged website used together with an Open Tibia(OT) server.
 It aims to be super easy to install and compatible with all the popular OT distributions.
 It is created in PHP with a simple custom procedural framework.
 
-### Where do I download?
-
-We use github to distribute our versions, stable are tagged as releases, while development is the latest commit.
-* [Stable](https://github.com/Znote/ZnoteAAC/releases)
-* [Development](https://github.com/Znote/ZnoteAAC/archive/master.zip)
-
-**NOTE:** Development version supports TFS 1.3, but you can expect bugs to occur.
-
 ### Compatible OT distributions
-Znote AAC primarily aims to be compatible with [Forgotten Server](https://github.com/otland/forgottenserver)
+Znote AAC primarily aims to be compatible with [Forgotten Server](https://github.com/fablow77/otx3.8rebirth)
 Forgotten Server is commonly known as TFS (The Forgotten Server) and Znote AAC supports these versions:
-* TFS 0.2.13+ (Since initial release)
-* TFS 0.3.6+ (Since Znote AAC 1.2)
 * TFS 1.2+ (Since Znote AAC 1.5)
+* OTX 3.8 Rebirth (As Intended)
 
 ### Requirements
 * PHP Version 5.6 or higher. Mostly tested on 5.6 and 7.4. Most web stacks ships with this as default these days.
+* This has been edited to work with Xampp 7.4.14
 
 ### Optionals
 * For email registration verification and account recovery: [PHPMailer](https://github.com/PHPMailer/PHPMailer/releases) Version 6.x, extracted and renamed to just "PHPMailer" in Znote AAC directory.
@@ -56,11 +48,8 @@ This will show you the rest of the instructions as well as the mysql schema.
 Znote AAC is very rich feature wise, here is an attempt at summarizing what we offer.
 
 #### Server distribution compatibility:
-- OTHire
-- TFS 0.2
-- TFS 0.3/4
 - TFS 1.x
-- Distributions based on these (such as OTX).
+- OTX 3.8 Rebirth
 
 #### General
 - Server wide latest death list
@@ -68,6 +57,10 @@ Znote AAC is very rich feature wise, here is an attempt at summarizing what we o
 - Server information with PvP settings, skill rates, experience stages (parses config.lua and stages.xml file)
 - Spells page with vocation filters (parses spells.xml file)
 - Item list showing equippable items (parses items.xml file)
+- Most pages were edited to show rebirth.
+- Added Top 30 Rebirth Page
+- Added Top 10 Bank Balance Page
+- Added Top 5 Rebirth Widget
 
 #### Account & login:
 - Basic account registration
