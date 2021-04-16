@@ -8,7 +8,7 @@ It aims to be super easy to install and compatible with all the popular OT distr
 It is created in PHP with a simple custom procedural framework.
 
 ### Compatible OT distributions
-Znote AAC primarily aims to be compatible with [Forgotten Server](https://github.com/fablow77/otx3.8rebirth)
+Znote AAC primarily aims to be compatible with [OTX 3.8 Rebirth](https://github.com/fablow77/otx3.8rebirth)
 Forgotten Server is commonly known as TFS (The Forgotten Server) and Znote AAC supports these versions:
 * TFS 1.2+ (Since Znote AAC 1.5)
 * OTX 3.8 Rebirth (As Intended)
@@ -160,6 +160,3 @@ Znote AAC is very rich feature wise, here is an attempt at summarizing what we o
 - Add changelogs
 - Load and update server and spells information
 - Helpdesk
-
-### TODO List:
-* Check [Milestones](https://github.com/Znote/ZnoteAAC/milestones)
