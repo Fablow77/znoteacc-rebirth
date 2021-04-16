@@ -10,12 +10,12 @@ It is created in PHP with a simple custom procedural framework.
 ### Compatible OT distributions
 Znote AAC primarily aims to be compatible with [OTX 3.8 Rebirth](https://github.com/fablow77/otx3.8rebirth)
 Forgotten Server is commonly known as TFS (The Forgotten Server) and Znote AAC supports these versions:
-* TFS 1.2+ (Since Znote AAC 1.5)
+* TFS 1.2+ 
 * OTX 3.8 Rebirth (As Intended)
 
 ### Requirements
 * PHP Version 5.6 or higher. Mostly tested on 5.6 and 7.4. Most web stacks ships with this as default these days.
-* This has been edited to work with Xampp 7.4.14
+* This has been edited to work with Xampp 7.4.14.
 
 ### Optionals
 * For email registration verification and account recovery: [PHPMailer](https://github.com/PHPMailer/PHPMailer/releases) Version 6.x, extracted and renamed to just "PHPMailer" in Znote AAC directory.
