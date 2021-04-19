@@ -1,4 +1,4 @@
-ZnoteAAC - Rebirth Edition
+ZnoteAAC - Rebirth Edition (Fresh Install)
 ========
 [![CodeFactor](https://www.codefactor.io/repository/github/znote/znoteaac/badge)](https://www.codefactor.io/repository/github/znote/znoteaac)
 ### What is Znote AAC?
